@@ -1,0 +1,28 @@
+.column_space {
+    margin-right:10px;
+}
+.input_block{
+    margin:auto;
+    margin-top: 100px;
+    text-align:center;
+}
+.block{
+    margin-left:100px;
+}
+.select_block {
+    margin-top: 10px;
+    width:520px;
+}
+.home_page {
+    margin-top: 50px;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.unit_color {
+    color:red;
+}

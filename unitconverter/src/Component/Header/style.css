@@ -1,0 +1,20 @@
+.TextColor {
+    color: white;
+    font-family: Cambria;
+}
+.link {
+    font-size: 20px;
+    font-weight: bold;
+}
+.input {
+    width:250px;
+}
+.image {
+    height:80x;
+    width:80px;
+}
+.header_fixed {
+    position: fixed;
+    width: 100%;
+    top:0px;
+}
